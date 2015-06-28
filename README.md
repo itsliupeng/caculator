@@ -12,4 +12,8 @@ end
 
 int root directory, `ruby sctipts/caculator_demo.rb`
 
+## test
+
+in root directory, `rspec spec`
+
 
